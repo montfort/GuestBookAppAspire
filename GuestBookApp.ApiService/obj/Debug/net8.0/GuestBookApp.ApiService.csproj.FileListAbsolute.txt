@@ -164,3 +164,4 @@ E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\G
 E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ApiService\obj\Debug\net8.0\GuestBoo.4C7CC61B.Up2Date
 E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ApiService\obj\Debug\net8.0\GuestBookApp.ApiService.genruntimeconfig.cache
 E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ApiService\obj\Debug\net8.0\ref\GuestBookApp.ApiService.dll
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ApiService\obj\Debug\net8.0\GuestBookApp.ApiService.sourcelink.json

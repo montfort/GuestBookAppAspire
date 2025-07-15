@@ -1,8 +1,8 @@
 {
     "name": ".NET Aspire GuestBook Dev Container",
-    // Utiliza una imagen de contenedor de desarrollo de.NET 9 con Debian Bookworm.
-    // Esta imagen incluye el SDK de.NET 9 y herramientas básicas.
-    "image": "mcr.microsoft.com/devcontainers/dotnet:9.0-bookworm",
+    // Utiliza una imagen de contenedor de desarrollo de.NET 8 con Debian Bookworm.
+    // Esta imagen incluye el SDK de.NET 8 y herramientas básicas.
+    "image": "mcr.microsoft.com/devcontainers/dotnet:8.0-bookworm",
 
     "features": {
         // Habilita Docker-in-Docker. Esto es crucial para.NET Aspire,

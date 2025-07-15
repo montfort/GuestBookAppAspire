@@ -10,3 +10,4 @@ E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\G
 E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\obj\Debug\net8.0\refint\GuestBookApp.ServiceDefaults.dll
 E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\obj\Debug\net8.0\GuestBookApp.ServiceDefaults.pdb
 E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\obj\Debug\net8.0\ref\GuestBookApp.ServiceDefaults.dll
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\obj\Debug\net8.0\GuestBookApp.ServiceDefaults.sourcelink.json

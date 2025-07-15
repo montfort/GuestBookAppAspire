@@ -1,36 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4449F5DD-4537-4AE7-863F-E378704DDABC}|GuestBookApp.Web\\GuestBookApp.Web.csproj|e:\\unir\\octavo cuatrimestre\\desarrollo de aplicaciones en red\\actividad 2\\code\\guestbookapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4449F5DD-4537-4AE7-863F-E378704DDABC}|GuestBookApp.Web\\GuestBookApp.Web.csproj|solutionrelative:guestbookapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A20655-B0B8-47BF-8427-7184A1781FDD}|GuestBookApp.AppHost\\GuestBookApp.AppHost.csproj|e:\\unir\\octavo cuatrimestre\\desarrollo de aplicaciones en red\\actividad 2\\code\\guestbookapp.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A20655-B0B8-47BF-8427-7184A1781FDD}|GuestBookApp.AppHost\\GuestBookApp.AppHost.csproj|solutionrelative:guestbookapp.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{010ABC01-4E0B-4F66-82F0-32B8681B43B8}|GuestBookApp.Core\\GuestBookApp.Core.csproj|e:\\unir\\octavo cuatrimestre\\desarrollo de aplicaciones en red\\actividad 2\\code\\guestbookapp.core\\guestbookentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{010ABC01-4E0B-4F66-82F0-32B8681B43B8}|GuestBookApp.Core\\GuestBookApp.Core.csproj|solutionrelative:guestbookapp.core\\guestbookentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{010ABC01-4E0B-4F66-82F0-32B8681B43B8}|GuestBookApp.Core\\GuestBookApp.Core.csproj|e:\\unir\\octavo cuatrimestre\\desarrollo de aplicaciones en red\\actividad 2\\code\\guestbookapp.core\\guestbookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{010ABC01-4E0B-4F66-82F0-32B8681B43B8}|GuestBookApp.Core\\GuestBookApp.Core.csproj|solutionrelative:guestbookapp.core\\guestbookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A37F56FB-EEB3-4CB5-96D7-F78AE1CB7B21}|GuestBookApp.ApiService\\GuestBookApp.ApiService.csproj|e:\\unir\\octavo cuatrimestre\\desarrollo de aplicaciones en red\\actividad 2\\code\\guestbookapp.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A37F56FB-EEB3-4CB5-96D7-F78AE1CB7B21}|GuestBookApp.ApiService\\GuestBookApp.ApiService.csproj|solutionrelative:guestbookapp.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4449F5DD-4537-4AE7-863F-E378704DDABC}|GuestBookApp.Web\\GuestBookApp.Web.csproj|e:\\unir\\octavo cuatrimestre\\desarrollo de aplicaciones en red\\actividad 2\\code\\guestbookapp.web\\guestbookapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4449F5DD-4537-4AE7-863F-E378704DDABC}|GuestBookApp.Web\\GuestBookApp.Web.csproj|solutionrelative:guestbookapp.web\\guestbookapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4449F5DD-4537-4AE7-863F-E378704DDABC}|GuestBookApp.Web\\GuestBookApp.Web.csproj|e:\\unir\\octavo cuatrimestre\\desarrollo de aplicaciones en red\\actividad 2\\code\\guestbookapp.web\\components\\pages\\guestbookdisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4449F5DD-4537-4AE7-863F-E378704DDABC}|GuestBookApp.Web\\GuestBookApp.Web.csproj|solutionrelative:guestbookapp.web\\components\\pages\\guestbookdisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,97 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\GuestBookApp.Web\\Program.cs",
-              "RelativeDocumentMoniker": "GuestBookApp.Web\\Program.cs",
-              "ToolTip": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\GuestBookApp.Web\\Program.cs",
-              "RelativeToolTip": "GuestBookApp.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T04:06:51.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\GuestBookApp.AppHost\\Program.cs",
-              "RelativeDocumentMoniker": "GuestBookApp.AppHost\\Program.cs",
-              "ToolTip": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\GuestBookApp.AppHost\\Program.cs",
-              "RelativeToolTip": "GuestBookApp.AppHost\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T04:06:36.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GuestBookEntry.cs",
-              "DocumentMoniker": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\GuestBookApp.Core\\GuestBookEntry.cs",
-              "RelativeDocumentMoniker": "GuestBookApp.Core\\GuestBookEntry.cs",
-              "ToolTip": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\GuestBookApp.Core\\GuestBookEntry.cs",
-              "RelativeToolTip": "GuestBookApp.Core\\GuestBookEntry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T04:02:23.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GuestBookDbContext.cs",
-              "DocumentMoniker": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\GuestBookApp.Core\\GuestBookDbContext.cs",
-              "RelativeDocumentMoniker": "GuestBookApp.Core\\GuestBookDbContext.cs",
-              "ToolTip": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\GuestBookApp.Core\\GuestBookDbContext.cs",
-              "RelativeToolTip": "GuestBookApp.Core\\GuestBookDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T04:02:17.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\GuestBookApp.ApiService\\Program.cs",
-              "RelativeDocumentMoniker": "GuestBookApp.ApiService\\Program.cs",
-              "ToolTip": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\GuestBookApp.ApiService\\Program.cs",
-              "RelativeToolTip": "GuestBookApp.ApiService\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T04:01:34.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GuestBookDisplay.razor",
-              "DocumentMoniker": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\GuestBookApp.Web\\Components\\Pages\\GuestBookDisplay.razor",
-              "RelativeDocumentMoniker": "GuestBookApp.Web\\Components\\Pages\\GuestBookDisplay.razor",
-              "ToolTip": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\GuestBookApp.Web\\Components\\Pages\\GuestBookDisplay.razor",
-              "RelativeToolTip": "GuestBookApp.Web\\Components\\Pages\\GuestBookDisplay.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-15T04:00:38.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GuestBookApiClient.cs",
-              "DocumentMoniker": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\GuestBookApp.Web\\GuestBookApiClient.cs",
-              "RelativeDocumentMoniker": "GuestBookApp.Web\\GuestBookApiClient.cs",
-              "ToolTip": "E:\\UNIR\\OCTAVO CUATRIMESTRE\\DESARROLLO DE APLICACIONES EN RED\\Actividad 2\\code\\GuestBookApp.Web\\GuestBookApiClient.cs",
-              "RelativeToolTip": "GuestBookApp.Web\\GuestBookApiClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T03:59:47.605Z",
-              "EditorCaption": ""
             }
           ]
         }

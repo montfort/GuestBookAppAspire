@@ -124,3 +124,4 @@ E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\G
 E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.AppHost\obj\Debug\net8.0\GuestBookApp.AppHost.pdb
 E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.AppHost\obj\Debug\net8.0\GuestBookApp.AppHost.genruntimeconfig.cache
 E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.AppHost\obj\Debug\net8.0\ref\GuestBookApp.AppHost.dll
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.AppHost\obj\Debug\net8.0\GuestBookApp.AppHost.sourcelink.json
