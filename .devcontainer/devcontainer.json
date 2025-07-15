@@ -1,0 +1,39 @@
+{
+    "name": ".NET Aspire GuestBook Dev Container",
+    // Utiliza una imagen de contenedor de desarrollo de.NET 9 con Debian Bookworm.
+    // Esta imagen incluye el SDK de.NET 9 y herramientas básicas.
+    "image": "mcr.microsoft.com/devcontainers/dotnet:9.0-bookworm",
+
+    "features": {
+        // Habilita Docker-in-Docker. Esto es crucial para.NET Aspire,
+        // ya que Aspire utiliza contenedores (como PostgreSQL) para orquestar servicios
+        // durante el desarrollo local. Sin esto, Aspire no podría iniciar esos contenedores.
+        "ghcr.io/devcontainers/features/docker-in-docker:2": {
+            "version": "latest"
+        },
+        // Opcional: Si se necesita PowerShell en el contenedor.
+        "ghcr.io/devcontainers/features/powershell:1": {
+            "version": "latest"
+        }
+    },
+
+    "customizations": {
+        "vscode": {
+            "extensions":
+        }
+    },
+
+    // Comandos que se ejecutan una vez que el contenedor se ha creado por primera vez.
+    "postCreateCommand": "dotnet workload install aspire && dotnet dev-certs https --trust",
+    // Este comando instala el workload de.NET Aspire. [2]
+    // Luego, 'dotnet dev-certs https --trust' confía en el certificado de desarrollo HTTPS de ASP.NET Core,
+    // evitando errores de certificado al acceder a la aplicación web o al dashboard de Aspire.
+
+    // Puertos que se reenvían automáticamente desde el contenedor al host local.
+    // GitHub Codespaces maneja automáticamente la mayoría de los puertos expuestos por Aspire (como el dashboard y las aplicaciones web).
+    // Sin embargo, se pueden especificar puertos adicionales si es necesario (ej. PgAdmin en 5050).
+    "forwardPorts": , // 18888 para el dashboard de Aspire, 5050 para PgAdmin (si se usa)
+
+    // Define el usuario que se utilizará dentro del contenedor.
+    "remoteUser": "vscode"
+}
