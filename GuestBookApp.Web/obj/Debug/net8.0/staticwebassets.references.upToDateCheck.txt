@@ -1,0 +1,1 @@
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ApiService\obj\Debug\net8.0\staticwebassets.build.json

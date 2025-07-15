@@ -1,0 +1,56 @@
+﻿@page "/guestbook"
+@inject GuestBookApiClient ApiClient
+@using GuestBookApp.Core.Models
+@using GuestBookApp.Web.Services
+
+<PageTitle>Libro de Firmas</PageTitle>
+
+<h1>Libro de Firmas</h1>
+
+<p>
+    <a href="/addentry" class="btn btn-success">Añadir Nueva Firma</a>
+</p>
+
+@if (guestBookEntries == null)
+{
+    <p><em>Cargando firmas...</em></p>
+}
+else if (!guestBookEntries.Any())
+{
+    <p>No hay firmas en el libro de visitas. ¡Sé el primero en firmar!</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Fecha</th>
+                <th>Comentario</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var entry in guestBookEntries)
+            {
+                <tr>
+                    <td>@entry.Name</td>
+                    <td>@entry.Date.ToShortDateString() @entry.Date.ToShortTimeString()</td>
+                    <td>@entry.Comment</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<GuestBookEntry>? guestBookEntries;
+
+    protected override async Task OnInitializedAsync()
+    {
+        guestBookEntries = await ApiClient.GetGuestBookEntriesAsync();
+        if (guestBookEntries != null)
+        {
+            guestBookEntries = guestBookEntries.OrderByDescending(e => e.Date).ToList();
+        }
+    }
+}

@@ -1,0 +1,14 @@
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.Core\bin\Debug\net8.0\GuestBookApp.Core.deps.json
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.Core\bin\Debug\net8.0\GuestBookApp.Core.runtimeconfig.json
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.Core\bin\Debug\net8.0\GuestBookApp.Core.dll
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.Core\bin\Debug\net8.0\GuestBookApp.Core.pdb
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.Core\obj\Debug\net8.0\GuestBookApp.Core.csproj.AssemblyReference.cache
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.Core\obj\Debug\net8.0\GuestBookApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.Core\obj\Debug\net8.0\GuestBookApp.Core.AssemblyInfoInputs.cache
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.Core\obj\Debug\net8.0\GuestBookApp.Core.AssemblyInfo.cs
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.Core\obj\Debug\net8.0\GuestBookApp.Core.csproj.CoreCompileInputs.cache
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.Core\obj\Debug\net8.0\GuestBookApp.Core.dll
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.Core\obj\Debug\net8.0\refint\GuestBookApp.Core.dll
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.Core\obj\Debug\net8.0\GuestBookApp.Core.pdb
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.Core\obj\Debug\net8.0\GuestBookApp.Core.genruntimeconfig.cache
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.Core\obj\Debug\net8.0\ref\GuestBookApp.Core.dll

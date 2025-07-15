@@ -1,0 +1,12 @@
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\bin\Debug\net8.0\GuestBookApp.ServiceDefaults.deps.json
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\bin\Debug\net8.0\GuestBookApp.ServiceDefaults.dll
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\bin\Debug\net8.0\GuestBookApp.ServiceDefaults.pdb
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\obj\Debug\net8.0\GuestBookApp.ServiceDefaults.csproj.AssemblyReference.cache
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\obj\Debug\net8.0\GuestBookApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\obj\Debug\net8.0\GuestBookApp.ServiceDefaults.AssemblyInfoInputs.cache
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\obj\Debug\net8.0\GuestBookApp.ServiceDefaults.AssemblyInfo.cs
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\obj\Debug\net8.0\GuestBookApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\obj\Debug\net8.0\GuestBookApp.ServiceDefaults.dll
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\obj\Debug\net8.0\refint\GuestBookApp.ServiceDefaults.dll
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\obj\Debug\net8.0\GuestBookApp.ServiceDefaults.pdb
+E:\UNIR\OCTAVO CUATRIMESTRE\DESARROLLO DE APLICACIONES EN RED\Actividad 2\code\GuestBookApp.ServiceDefaults\obj\Debug\net8.0\ref\GuestBookApp.ServiceDefaults.dll
