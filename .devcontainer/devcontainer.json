@@ -25,7 +25,7 @@
 
     // Comandos que se ejecutan una vez que el contenedor se ha creado por primera vez.
     "postCreateCommand": "dotnet workload install aspire && dotnet dev-certs https --trust",
-    // Este comando instala el workload de.NET Aspire. [2]
+    // Este comando instala el workload de.NET Aspire. 
     // Luego, 'dotnet dev-certs https --trust' confía en el certificado de desarrollo HTTPS de ASP.NET Core,
     // evitando errores de certificado al acceder a la aplicación web o al dashboard de Aspire.
 
